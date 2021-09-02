@@ -1,2 +1,0 @@
-# TiendaPractica
- practicaphp
